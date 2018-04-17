@@ -1,5 +1,4 @@
-# freeagent-alfred-workflow
-freeagent-alfred-workflow
+# FreeAgent Alfred Workflow
 
 | Command        ||
 | ------------- |------------- |
