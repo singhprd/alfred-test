@@ -21,37 +21,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>0E616018-B2A3-4A81-81B2-6F19174E66FF</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>66EA4107-9ECC-498F-A9B3-A577E80A85D3</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>0F17D800-4BDB-43B0-A369-0E6B0CAAD117</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>EC8B845F-48CA-4C70-99EC-79E0BCA6EA7B</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>107C3991-BBFF-4486-8277-9C72448F4EE9</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>1DB64092-33F8-4348-8562-5D5869994BF0</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -87,12 +61,23 @@
 			</dict>
 		</array>
 		<key>1A501A8D-B2B7-43A3-AD21-9A0C90E040C9</key>
-		<array/>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>10D9C99B-FDD9-47A2-954F-DC8DB82E92E9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>1E8CDE15-17C4-4A75-B0AD-525C58A0E0AF</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>ADFB2697-17DF-4A6B-90AA-9C29A5F12F15</string>
+				<string>38483E8A-3C66-48BC-A293-3A60FFAC2621</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -205,32 +190,6 @@
 				<false/>
 			</dict>
 		</array>
-		<key>440DC89D-BD6F-4CE2-801B-EBAF7C784117</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>52BFF768-4FA6-4B7B-B590-188425C30485</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>444023DE-8463-4F5F-B9D6-2A0CB50A96C7</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>6982B7C4-C86C-44CC-B061-82484A5B8769</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>46B38DF7-E98D-4B37-86AC-B7BD13A8B08E</key>
 		<array>
 			<dict>
@@ -262,19 +221,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>1A501A8D-B2B7-43A3-AD21-9A0C90E040C9</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>52BFF768-4FA6-4B7B-B590-188425C30485</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>107C3991-BBFF-4486-8277-9C72448F4EE9</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -322,50 +268,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>5C1A7556-B765-48C9-B744-EB51E0FCD1BB</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>AD39F0E0-3766-4D8C-88C6-DF3A92D1ED77</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>5FDFB797-0455-4B3F-9C63-FB91D63DEBDB</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>15BB960F-136C-4112-A73E-9DE0362857BC</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>6078FE7E-88F4-4EE0-A820-1B27166802F3</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>ECE70E84-F08F-4FD9-9FE1-FF5E0EBFE28D</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>64609C9D-8324-4D03-96E1-36EDD51DCBDD</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>87A718D6-6594-4304-955C-C089A3AB7C9D</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -387,37 +294,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>66EA4107-9ECC-498F-A9B3-A577E80A85D3</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>4669D922-245A-4539-A250-C9EFD3AE2736</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>67C1DE62-D894-4370-B840-4209E0608B02</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>A1694860-6723-4C79-9857-D8B0C869BE4E</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>68043AA2-7B68-4EA1-9CC3-7B72A7F70C92</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>64609C9D-8324-4D03-96E1-36EDD51DCBDD</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -439,50 +320,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>6982B7C4-C86C-44CC-B061-82484A5B8769</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>7B97FEED-BE77-4ED1-BAD6-8A9023B6085E</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>6D6BF221-9C11-4B73-9BD1-E9BBD046F422</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>42D249A6-C708-4F4F-8F6A-EE894DD4A765</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>70AE832F-696F-4C97-9FDC-8DE9EB694EFA</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>E3060037-3080-4697-8E4D-B0475047616B</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>7B97FEED-BE77-4ED1-BAD6-8A9023B6085E</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>DA9AC747-69B1-47F1-B713-B974B5FAE3C9</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -509,19 +351,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>67C1DE62-D894-4370-B840-4209E0608B02</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>87A718D6-6594-4304-955C-C089A3AB7C9D</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>0E616018-B2A3-4A81-81B2-6F19174E66FF</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -595,19 +424,6 @@
 				<false/>
 			</dict>
 		</array>
-		<key>AD39F0E0-3766-4D8C-88C6-DF3A92D1ED77</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>440DC89D-BD6F-4CE2-801B-EBAF7C784117</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>B104FA30-A56A-4D87-99FE-1AAE699A3046</key>
 		<array>
 			<dict>
@@ -660,19 +476,6 @@
 				<false/>
 			</dict>
 		</array>
-		<key>DA9AC747-69B1-47F1-B713-B974B5FAE3C9</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>5C1A7556-B765-48C9-B744-EB51E0FCD1BB</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>E11FE2EC-A5AF-4C2D-BA3F-314EA299880F</key>
 		<array>
 			<dict>
@@ -717,32 +520,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>595A162B-F586-48AD-80E4-F1A8D630C87D</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>ECE70E84-F08F-4FD9-9FE1-FF5E0EBFE28D</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>68043AA2-7B68-4EA1-9CC3-7B72A7F70C92</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>F2BDD617-CDB4-41B5-AE26-8A755C25A4BD</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>6078FE7E-88F4-4EE0-A820-1B27166802F3</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -846,13 +623,34 @@
 	<key>createdby</key>
 	<string>Peter Singh</string>
 	<key>description</key>
-	<string>A Workflow to Make Navigating Sudo Faster</string>
+	<string>A Workflow to Make Navigating FreeAgent Tools Faster</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
 	<string>FreeAgent</string>
 	<key>objects</key>
 	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Environment Changed</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>10D9C99B-FDD9-47A2-954F-DC8DB82E92E9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -884,7 +682,7 @@
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>fixedorder</key>
-				<false/>
+				<true/>
 				<key>items</key>
 				<string>[{"title":"production","arg":"freeagent.com","subtitle":"Production"},{"title":"Staging","arg":"staging.fre.ag","subtitle":"Staging"},{"title":"Local","arg":"lvh.me:3000","subtitle":"local"},{"title":"Int1","arg":"int1.fre.ag","subtitle":"int1"},{"title":"Int2","arg":"int2.fre.ag","subtitle":"int2"},{"title":"Int3","arg":"int3.fre.ag","subtitle":"int3"},{"title":"Int4","arg":"int4.fre.ag","subtitle":"int4"},{"title":"Int5","arg":"int5.fre.ag","subtitle":"int5"},{"title":"Int6","arg":"int6.fre.ag","subtitle":"int6"},{"title":"Int7","arg":"int7.fre.ag","subtitle":"int7"},{"title":"Int8","arg":"int8.fre.ag","subtitle":"int8"},{"title":"Int9","arg":"int9.fre.ag","subtitle":"int9"},{"title":"Int10","arg":"int10.fre.ag","subtitle":"int10"},{"title":"Int11","arg":"int11.fre.ag","subtitle":"int11"},{"title":"Int12","arg":"int12.fre.ag","subtitle":"int12"},{"title":"Int13","arg":"int13.fre.ag","subtitle":"int13"},{"title":"Int14","arg":"int14.fre.ag","subtitle":"int14"},{"title":"Int15","arg":"int15.fre.ag","subtitle":"int15"},{"title":"Int16","arg":"int16.fre.ag","subtitle":"int16"},{"title":"Int17","arg":"int17.fre.ag","subtitle":"int17"},{"title":"Int18","arg":"int18.fre.ag","subtitle":"int18"},{"title":"Int19","arg":"int19.fre.ag","subtitle":"int19"},{"title":"Int20","arg":"int20.fre.ag","subtitle":"int20"},{"title":"Int21","arg":"int21.fre.ag","subtitle":"int21"},{"title":"Int22","arg":"int22.fre.ag","subtitle":"int22"},{"title":"Int23","arg":"int23.fre.ag","subtitle":"int23"},{"title":"Int24","arg":"int24.fre.ag","subtitle":"int24"},{"title":"Int25","arg":"int25.fre.ag","subtitle":"int25"},{"title":"Int26","arg":"int26.fre.ag","subtitle":"int26"},{"title":"Int27","arg":"int27.fre.ag","subtitle":"int27"},{"title":"Int28","arg":"int28.fre.ag","subtitle":"int28"},{"title":"Int29","arg":"int29.fre.ag","subtitle":"int29"},{"title":"Int30","arg":"int30.fre.ag","subtitle":"int30"}]</string>
 				<key>keyword</key>
@@ -927,6 +725,27 @@
 			<string>1A501A8D-B2B7-43A3-AD21-9A0C90E040C9</string>
 			<key>version</key>
 			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Current Environment</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>38483E8A-3C66-48BC-A293-3A60FFAC2621</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -975,522 +794,19 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>largetypetext</key>
-				<string>{query}</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.largetype</string>
-			<key>uid</key>
-			<string>ADFB2697-17DF-4A6B-90AA-9C29A5F12F15</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
 				<string>query = ARGV[0]
-	query = query.split(".").first.split("://").last
-print query</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>2</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>6982B7C4-C86C-44CC-B061-82484A5B8769</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>as</string>
-				<key>subtext</key>
-				<string>Assume a Company on {var:server}</string>
-				<key>text</key>
-				<string>Assume</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>444023DE-8463-4F5F-B9D6-2A0CB50A96C7</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>script</key>
-				<string>query = ARGV[0]
-	query = query.split(".").first.split("://").last
-print query</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>2</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>52BFF768-4FA6-4B7B-B590-188425C30485</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>cat currentEnv</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>5C1A7556-B765-48C9-B744-EB51E0FCD1BB</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>http://sudo.{var:server}/admin/companies/{var:subdomain}?subdomain=true</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>107C3991-BBFF-4486-8277-9C72448F4EE9</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>on run
-	set theQuery to "{query}"
-	(*
 
-javascript_clicker.scpt
-
-Uses jQuery to automate repeatedly clicking a submit button in Chrome.
-
-You'll need to customize how to find the button in question
-
-on the `var button = $('input[value=Submit]')` line below.
-
-More details: http://n8h.me/1s8rDnZ
-
-*)
-	
-	
-	-- Time between repeats, and optionally before the script runs
-	
-	set initial_delay to 0
-	
-	set loop_delay to 0.25
-	
-	set return_to_tab to true
-	
-	set counter to 0
-	
-	set load_jquery to false
-	
-	
-	-- Give me a sec to get back to the right tab, off by default
-	
-	delay initial_delay
-	
-	
-	tell application "Google Chrome" to tell its front window
-		
-		-- display notification title as string
-		
-		-- Save the active tab so that AppleScript can focus its
-		
-		-- attention on that tab in the background, while we
-		
-		-- continue browsing in the foreground
-		
-		set active_tab to active tab
-		set tab_index to active tab index
-		tell active_tab
-			repeat while true
-				if load_jquery is true then
-					
-					(*
-
-// Set up jQuery
-
-var script = document.createElement('script');
-
-script.src = 'https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js';
-
-document.getElementsByTagName('head')[0].appendChild(script);
-
-*)
-					set jquery_source to do shell script "curl http://code.jquery.com/jquery-latest.min.js"
-					execute javascript jquery_source
-				end if
-				set jscript to "document.getElementsByClassName('button add')[0].text === 'Assume';"
-				set returned to execute javascript jscript
-				set loggerjs to "console.log('trying to find an assume button!')"
-				execute javascript loggerjs
-				set counter to counter + 1
-				if counter is greater than 30 then error number -128
-				-- Exit if the button isn't found.
-				if returned is true then exit repeat
-				delay loop_delay
-			end repeat
-			set jscript2 to "console.log('alfred'); window.onload = function() {
-		console.log('clicking button')
-    		document.getElementsByClassName('button add')[0].click()
-	}
-	window.onload()"
-			execute javascript jscript2
-			-- Notify that it has finished in case we forgot.
-		end tell
-	end tell
-	counter
-	return theQuery
-end run</string>
-				<key>scriptargtype</key>
-				<integer>0</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>6</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>1DB64092-33F8-4348-8562-5D5869994BF0</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{query}</string>
-				<key>variables</key>
-				<dict>
-					<key>subdomain</key>
-					<string>{query}</string>
-				</dict>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>DA9AC747-69B1-47F1-B713-B974B5FAE3C9</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{query}</string>
-				<key>variables</key>
-				<dict>
-					<key>server</key>
-					<string>{query}</string>
-				</dict>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>440DC89D-BD6F-4CE2-801B-EBAF7C784117</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>type</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.transform</string>
-			<key>uid</key>
-			<string>AD39F0E0-3766-4D8C-88C6-DF3A92D1ED77</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>type</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.transform</string>
-			<key>uid</key>
-			<string>7B97FEED-BE77-4ED1-BAD6-8A9023B6085E</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>cat currentEnv</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>64609C9D-8324-4D03-96E1-36EDD51DCBDD</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>-- Needs fixed
-
-on run argv
-	set theQuery to item 1 of argv
-	
-	tell application "Google Chrome"
-		
-		set theJS to "document.readyState"
-		set theResult to execute window 1's active tab javascript theJS
-		set theCount to 0
-		repeat while theResult is not "Complete" or (theCount = 50)
-			set theCount to theCount + 1
-			delay 0.2
-			set theResult to execute window 1's active tab javascript theJS
-		end repeat
-		
-		set hasButtonJS to "document.getElementsByClassName('button add').length"
-		set buttonResult to execute window 1's active tab javascript hasButtonJS
-		
-		set theCount to 0
-		repeat while buttonResult is 0 or (theCount = 50)
-			set theCount to theCount + 1
-			delay 0.2
-			set buttonResult to execute window 1's active tab javascript hasButtonJS
-		end repeat
-		
-		execute front window's active tab javascript "console.log('alfred'); window.onload = function() {
-		console.log('clicking button')
-		$( 'a:contains(' active,')' )[0].click()
-	}
-	window.onload()"
-		
-	end tell
-	return theQuery
-end run</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>6</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>4669D922-245A-4539-A250-C9EFD3AE2736</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>script</key>
-				<string>query = ARGV[0]
-	query = query.split(".").first.split("://").last
-print query</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>2</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>6078FE7E-88F4-4EE0-A820-1B27166802F3</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>http://sudo.{var:server}/admin/companies/{var:subdomain}?subdomain=true</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>66EA4107-9ECC-498F-A9B3-A577E80A85D3</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>bf</string>
-				<key>subtext</key>
-				<string>View Company Bank Feeds In Sudo</string>
-				<key>text</key>
-				<string>View Bank Feeds</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>F2BDD617-CDB4-41B5-AE26-8A755C25A4BD</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>type</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.transform</string>
-			<key>uid</key>
-			<string>87A718D6-6594-4304-955C-C089A3AB7C9D</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{query}</string>
-				<key>variables</key>
-				<dict>
-					<key>server</key>
-					<string>{query}</string>
-				</dict>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>0E616018-B2A3-4A81-81B2-6F19174E66FF</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>type</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.transform</string>
-			<key>uid</key>
-			<string>ECE70E84-F08F-4FD9-9FE1-FF5E0EBFE28D</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{query}</string>
-				<key>variables</key>
-				<dict>
-					<key>subdomain</key>
-					<string>{query}</string>
-				</dict>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>68043AA2-7B68-4EA1-9CC3-7B72A7F70C92</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>script</key>
-				<string>query = ARGV[0]
-	if query.include?("@")
-	  print query
- 	else 
-	  query = query.split(".").first.split("://").last
-	  print query
-	end</string>
+if query.include?("@")
+  print query
+else 
+  query = query.split(".").first.split("://").last
+  print query
+end</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -1660,12 +976,13 @@ print query</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>query = ARGV[0]
-	if query.include?("@")
-	  print query
- 	else 
-	  query = query.split(".").first.split("://").last
-	  print query
-	end</string>
+
+if query.include?("@")
+  print query
+else 
+  query = query.split(".").first.split("://").last
+  print query
+end</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -1856,7 +1173,9 @@ print query</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>query = ARGV[0]
-	query = query.split(".").first.split("://").last
+
+query = query.split(".").first.split("://").last
+
 print query</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
@@ -1983,7 +1302,9 @@ print query</string>
 				<integer>102</integer>
 				<key>script</key>
 				<string>query = ARGV[0]
-	query = query.split(".").first.split("://").last
+
+query = query.split(".").first.split("://").last
+
 print query</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
@@ -2343,9 +1664,9 @@ print query</string>
 				<key>keyword</key>
 				<string>login</string>
 				<key>subtext</key>
-				<string>View Login Page on {var:server}</string>
+				<string>Go to Login Page on {var:server}</string>
 				<key>text</key>
-				<string>View Login Page</string>
+				<string>Go to Login Page</string>
 				<key>withspace</key>
 				<false/>
 			</dict>
@@ -2409,44 +1730,6 @@ print query</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>applescript</key>
-				<string>on alfred_script(q)
-tell application "Viscosity"	set connectionName to name of the first connectionend telltell application "Viscosity" to connect connectionNametell application "Viscosity"	if the state of the first connection is "Connected" then returnend telltell application "System Events"		set i to 0		repeat until window 1 of process "Viscosity" exists		delay 0.1		set i to i + 1		if i is greater than 50 then			return		end if	end repeat		set viscosityWindow to window 1 of process "Viscosity"		repeat until exists viscosityWindow		delay 0.1		if i is greater than 50 then			return		end if	end repeat		tell process "Viscosity"		set value of text field 1 of viscosityWindow to "push"		delay 0.3		click button "OK" of viscosityWindow	end tellend tell
-end alfred_script</string>
-				<key>cachescript</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.applescript</string>
-			<key>uid</key>
-			<string>E3060037-3080-4697-8E4D-B0475047616B</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>vpn</string>
-				<key>subtext</key>
-				<string>Connect to VPN</string>
-				<key>text</key>
-				<string>Connect to VPN</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>70AE832F-696F-4C97-9FDC-8DE9EB694EFA</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
@@ -2470,10 +1753,17 @@ end alfred_script</string>
 			<dict>
 				<key>applescript</key>
 				<string>on alfred_script(q)
-tell application "Google Chrome" to tell its front window	set active_tab to active tab	set tab_index to active tab index	tell active_tab		set jscript to "document.getElementById('login_email').value = 'dev@freeagent.com'; document.getElementById('login_password').value = 'password'"		execute javascript jscript	end tellend tell
+  tell application "Google Chrome" to tell its front window
+    set active_tab to active tab
+      set tab_index to active tab index
+        tell active_tab
+          set jscript to "document.getElementById('login_email').value = 'dev@freeagent.com'; document.getElementById('login_password').value = 'password'"
+          execute javascript jscript
+        end tell
+  end tell
 end alfred_script</string>
 				<key>cachescript</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.action.applescript</string>
@@ -2492,171 +1782,153 @@ end alfred_script</string>
 			<key>xpos</key>
 			<integer>690</integer>
 			<key>ypos</key>
-			<integer>700</integer>
-		</dict>
-		<key>0E616018-B2A3-4A81-81B2-6F19174E66FF</key>
-		<dict>
-			<key>xpos</key>
-			<integer>690</integer>
-			<key>ypos</key>
-			<integer>460</integer>
+			<integer>600</integer>
 		</dict>
 		<key>0F17D800-4BDB-43B0-A369-0E6B0CAAD117</key>
 		<dict>
+			<key>note</key>
+			<string>Get current environment from file.</string>
 			<key>xpos</key>
 			<integer>500</integer>
 			<key>ypos</key>
-			<integer>1060</integer>
+			<integer>1150</integer>
 		</dict>
-		<key>107C3991-BBFF-4486-8277-9C72448F4EE9</key>
+		<key>10D9C99B-FDD9-47A2-954F-DC8DB82E92E9</key>
 		<dict>
 			<key>xpos</key>
-			<integer>920</integer>
+			<integer>760</integer>
 			<key>ypos</key>
-			<integer>310</integer>
+			<integer>30</integer>
 		</dict>
 		<key>134AC1BC-0D77-4B9C-8EA4-8BE0A42FC847</key>
 		<dict>
 			<key>xpos</key>
 			<integer>40</integer>
 			<key>ypos</key>
-			<integer>800</integer>
+			<integer>780</integer>
 		</dict>
 		<key>15BB960F-136C-4112-A73E-9DE0362857BC</key>
 		<dict>
 			<key>xpos</key>
 			<integer>440</integer>
 			<key>ypos</key>
-			<integer>700</integer>
+			<integer>600</integer>
 		</dict>
 		<key>1A501A8D-B2B7-43A3-AD21-9A0C90E040C9</key>
 		<dict>
+			<key>note</key>
+			<string>Get current environment from file.</string>
 			<key>xpos</key>
 			<integer>500</integer>
 			<key>ypos</key>
 			<integer>30</integer>
 		</dict>
-		<key>1DB64092-33F8-4348-8562-5D5869994BF0</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1070</integer>
-			<key>ypos</key>
-			<integer>310</integer>
-		</dict>
 		<key>1E8CDE15-17C4-4A75-B0AD-525C58A0E0AF</key>
 		<dict>
+			<key>note</key>
+			<string>Get the Current Environment</string>
 			<key>xpos</key>
 			<integer>250</integer>
 			<key>ypos</key>
-			<integer>170</integer>
+			<integer>210</integer>
 		</dict>
 		<key>20C61F04-5528-4E23-A4F2-369A2AC50D1C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>50</integer>
+			<integer>40</integer>
 			<key>ypos</key>
-			<integer>1790</integer>
+			<integer>1760</integer>
 		</dict>
 		<key>219C3B04-38A9-4743-B7B2-9585B9920FFF</key>
 		<dict>
 			<key>xpos</key>
 			<integer>690</integer>
 			<key>ypos</key>
-			<integer>960</integer>
+			<integer>1000</integer>
 		</dict>
 		<key>294B6864-690B-4850-A953-E20A701B0869</key>
 		<dict>
 			<key>xpos</key>
 			<integer>690</integer>
 			<key>ypos</key>
-			<integer>830</integer>
+			<integer>810</integer>
 		</dict>
 		<key>2B7AAD41-0E05-436E-81A0-C6B4511722BE</key>
 		<dict>
 			<key>xpos</key>
 			<integer>390</integer>
 			<key>ypos</key>
-			<integer>960</integer>
+			<integer>1000</integer>
 		</dict>
 		<key>2DB0906F-D6AA-47DA-AC4F-E0BBF5979D89</key>
 		<dict>
 			<key>xpos</key>
 			<integer>760</integer>
 			<key>ypos</key>
-			<integer>670</integer>
+			<integer>570</integer>
+		</dict>
+		<key>38483E8A-3C66-48BC-A293-3A60FFAC2621</key>
+		<dict>
+			<key>xpos</key>
+			<integer>760</integer>
+			<key>ypos</key>
+			<integer>210</integer>
 		</dict>
 		<key>3F1D09EA-8B82-47CB-983C-F80278F43D47</key>
 		<dict>
 			<key>xpos</key>
 			<integer>640</integer>
 			<key>ypos</key>
-			<integer>700</integer>
+			<integer>600</integer>
 		</dict>
 		<key>40429BAE-C7C2-43D1-A8A8-9229D6D4AECF</key>
 		<dict>
 			<key>xpos</key>
-			<integer>400</integer>
+			<integer>640</integer>
 			<key>ypos</key>
-			<integer>1440</integer>
+			<integer>1450</integer>
 		</dict>
 		<key>4096621A-1F3E-4444-8A14-1FD8928FD773</key>
 		<dict>
 			<key>xpos</key>
 			<integer>640</integer>
 			<key>ypos</key>
-			<integer>580</integer>
+			<integer>410</integer>
 		</dict>
 		<key>420D6574-D164-4A54-B11F-1FB08954805F</key>
 		<dict>
 			<key>xpos</key>
 			<integer>760</integer>
 			<key>ypos</key>
-			<integer>930</integer>
+			<integer>970</integer>
 		</dict>
 		<key>42D249A6-C708-4F4F-8F6A-EE894DD4A765</key>
 		<dict>
 			<key>xpos</key>
 			<integer>390</integer>
 			<key>ypos</key>
-			<integer>830</integer>
-		</dict>
-		<key>440DC89D-BD6F-4CE2-801B-EBAF7C784117</key>
-		<dict>
-			<key>xpos</key>
-			<integer>690</integer>
-			<key>ypos</key>
-			<integer>340</integer>
-		</dict>
-		<key>444023DE-8463-4F5F-B9D6-2A0CB50A96C7</key>
-		<dict>
-			<key>xpos</key>
-			<integer>40</integer>
-			<key>ypos</key>
-			<integer>310</integer>
-		</dict>
-		<key>4669D922-245A-4539-A250-C9EFD3AE2736</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1070</integer>
-			<key>ypos</key>
-			<integer>430</integer>
+			<integer>810</integer>
 		</dict>
 		<key>46B38DF7-E98D-4B37-86AC-B7BD13A8B08E</key>
 		<dict>
+			<key>note</key>
+			<string>If given a while url, cut it up so we just get the subdomain. Ignore it if it's an email address.</string>
 			<key>xpos</key>
 			<integer>250</integer>
 			<key>ypos</key>
-			<integer>550</integer>
+			<integer>380</integer>
 		</dict>
 		<key>47C7C809-B0E8-432A-AB15-810BBBB31243</key>
 		<dict>
 			<key>xpos</key>
 			<integer>440</integer>
 			<key>ypos</key>
-			<integer>960</integer>
+			<integer>1000</integer>
 		</dict>
 		<key>4A7575AE-13E7-4BA9-87E9-94FBDA6C55D6</key>
 		<dict>
+			<key>note</key>
+			<string>Write to the currentEnv file to persist environment.</string>
 			<key>xpos</key>
 			<integer>250</integer>
 			<key>ypos</key>
@@ -2665,317 +1937,215 @@ end alfred_script</string>
 		<key>4DFC26A1-B8CF-433D-A835-526CF6F41A2A</key>
 		<dict>
 			<key>xpos</key>
-			<integer>520</integer>
-			<key>ypos</key>
-			<integer>1410</integer>
-		</dict>
-		<key>52BFF768-4FA6-4B7B-B590-188425C30485</key>
-		<dict>
-			<key>xpos</key>
 			<integer>760</integer>
 			<key>ypos</key>
-			<integer>310</integer>
+			<integer>1420</integer>
 		</dict>
 		<key>5621BFD1-CCC0-49BC-AAF8-7AAE40F5F406</key>
 		<dict>
 			<key>xpos</key>
-			<integer>50</integer>
+			<integer>40</integer>
 			<key>ypos</key>
-			<integer>1280</integer>
+			<integer>1290</integer>
 		</dict>
 		<key>580B3D5C-CE60-4E1D-8A89-A79288B4B493</key>
 		<dict>
+			<key>note</key>
+			<string>If given a while url, cut it up so we just get the subdomain.</string>
 			<key>xpos</key>
 			<integer>250</integer>
 			<key>ypos</key>
-			<integer>930</integer>
+			<integer>970</integer>
 		</dict>
 		<key>595A162B-F586-48AD-80E4-F1A8D630C87D</key>
 		<dict>
 			<key>xpos</key>
 			<integer>690</integer>
 			<key>ypos</key>
-			<integer>1090</integer>
-		</dict>
-		<key>5C1A7556-B765-48C9-B744-EB51E0FCD1BB</key>
-		<dict>
-			<key>xpos</key>
-			<integer>500</integer>
-			<key>ypos</key>
-			<integer>310</integer>
+			<integer>1180</integer>
 		</dict>
 		<key>5FDFB797-0455-4B3F-9C63-FB91D63DEBDB</key>
 		<dict>
 			<key>xpos</key>
 			<integer>390</integer>
 			<key>ypos</key>
-			<integer>700</integer>
-		</dict>
-		<key>6078FE7E-88F4-4EE0-A820-1B27166802F3</key>
-		<dict>
-			<key>xpos</key>
-			<integer>250</integer>
-			<key>ypos</key>
-			<integer>430</integer>
-		</dict>
-		<key>64609C9D-8324-4D03-96E1-36EDD51DCBDD</key>
-		<dict>
-			<key>xpos</key>
-			<integer>500</integer>
-			<key>ypos</key>
-			<integer>430</integer>
+			<integer>600</integer>
 		</dict>
 		<key>66803C6F-6551-4D4B-AE43-CE4B66E8B38C</key>
 		<dict>
 			<key>xpos</key>
 			<integer>40</integer>
 			<key>ypos</key>
-			<integer>1060</integer>
-		</dict>
-		<key>66EA4107-9ECC-498F-A9B3-A577E80A85D3</key>
-		<dict>
-			<key>xpos</key>
-			<integer>760</integer>
-			<key>ypos</key>
-			<integer>430</integer>
+			<integer>1150</integer>
 		</dict>
 		<key>67C1DE62-D894-4370-B840-4209E0608B02</key>
 		<dict>
 			<key>xpos</key>
 			<integer>440</integer>
 			<key>ypos</key>
-			<integer>580</integer>
-		</dict>
-		<key>68043AA2-7B68-4EA1-9CC3-7B72A7F70C92</key>
-		<dict>
-			<key>xpos</key>
-			<integer>440</integer>
-			<key>ypos</key>
-			<integer>460</integer>
+			<integer>410</integer>
 		</dict>
 		<key>6889E10D-AC51-40F1-8705-81058F609D43</key>
 		<dict>
 			<key>xpos</key>
 			<integer>40</integer>
 			<key>ypos</key>
-			<integer>170</integer>
-		</dict>
-		<key>6982B7C4-C86C-44CC-B061-82484A5B8769</key>
-		<dict>
-			<key>xpos</key>
-			<integer>250</integer>
-			<key>ypos</key>
-			<integer>310</integer>
+			<integer>210</integer>
 		</dict>
 		<key>6B531DCC-EB90-4348-99F3-C53BD0A148FD</key>
 		<dict>
 			<key>xpos</key>
-			<integer>520</integer>
+			<integer>760</integer>
 			<key>ypos</key>
-			<integer>1530</integer>
+			<integer>1590</integer>
 		</dict>
 		<key>6D6BF221-9C11-4B73-9BD1-E9BBD046F422</key>
 		<dict>
+			<key>note</key>
+			<string>If given a while url, cut it up so we just get the subdomain.</string>
 			<key>xpos</key>
 			<integer>250</integer>
 			<key>ypos</key>
-			<integer>800</integer>
-		</dict>
-		<key>70AE832F-696F-4C97-9FDC-8DE9EB694EFA</key>
-		<dict>
-			<key>xpos</key>
-			<integer>50</integer>
-			<key>ypos</key>
-			<integer>1660</integer>
-		</dict>
-		<key>7B97FEED-BE77-4ED1-BAD6-8A9023B6085E</key>
-		<dict>
-			<key>xpos</key>
-			<integer>390</integer>
-			<key>ypos</key>
-			<integer>340</integer>
+			<integer>780</integer>
 		</dict>
 		<key>84CCB977-E32A-4EF2-BF28-4283408F078F</key>
 		<dict>
 			<key>xpos</key>
 			<integer>40</integer>
 			<key>ypos</key>
-			<integer>550</integer>
+			<integer>380</integer>
 		</dict>
 		<key>8619859F-49B1-4DDA-896B-D604230B136C</key>
 		<dict>
 			<key>xpos</key>
 			<integer>390</integer>
 			<key>ypos</key>
-			<integer>580</integer>
-		</dict>
-		<key>87A718D6-6594-4304-955C-C089A3AB7C9D</key>
-		<dict>
-			<key>xpos</key>
-			<integer>640</integer>
-			<key>ypos</key>
-			<integer>460</integer>
+			<integer>410</integer>
 		</dict>
 		<key>87F2FA6C-380A-4D11-BE05-A7E6AC2FBFBC</key>
 		<dict>
 			<key>xpos</key>
-			<integer>450</integer>
+			<integer>690</integer>
 			<key>ypos</key>
-			<integer>1560</integer>
+			<integer>1620</integer>
 		</dict>
 		<key>96492CEE-86AB-4994-B2C8-57BDE34CFF3B</key>
 		<dict>
 			<key>xpos</key>
-			<integer>50</integer>
+			<integer>40</integer>
 			<key>ypos</key>
-			<integer>1530</integer>
+			<integer>1590</integer>
 		</dict>
 		<key>97E9549C-7F7F-42DE-885B-254FBC18AB2D</key>
 		<dict>
 			<key>xpos</key>
 			<integer>640</integer>
 			<key>ypos</key>
-			<integer>830</integer>
+			<integer>810</integer>
 		</dict>
 		<key>9D60628A-E20E-4A93-B314-96A54CC24155</key>
 		<dict>
 			<key>xpos</key>
-			<integer>450</integer>
+			<integer>690</integer>
 			<key>ypos</key>
-			<integer>1440</integer>
+			<integer>1450</integer>
 		</dict>
 		<key>A1694860-6723-4C79-9857-D8B0C869BE4E</key>
 		<dict>
+			<key>note</key>
+			<string>Get current environment from file.</string>
 			<key>xpos</key>
 			<integer>500</integer>
 			<key>ypos</key>
-			<integer>550</integer>
-		</dict>
-		<key>AD39F0E0-3766-4D8C-88C6-DF3A92D1ED77</key>
-		<dict>
-			<key>xpos</key>
-			<integer>640</integer>
-			<key>ypos</key>
-			<integer>340</integer>
-		</dict>
-		<key>ADFB2697-17DF-4A6B-90AA-9C29A5F12F15</key>
-		<dict>
-			<key>xpos</key>
-			<integer>500</integer>
-			<key>ypos</key>
-			<integer>170</integer>
+			<integer>380</integer>
 		</dict>
 		<key>B104FA30-A56A-4D87-99FE-1AAE699A3046</key>
 		<dict>
 			<key>xpos</key>
 			<integer>40</integer>
 			<key>ypos</key>
-			<integer>930</integer>
+			<integer>970</integer>
 		</dict>
 		<key>B53BAC50-A76C-4E70-8D88-39A97756E5B4</key>
 		<dict>
 			<key>xpos</key>
-			<integer>260</integer>
+			<integer>760</integer>
 			<key>ypos</key>
-			<integer>1280</integer>
+			<integer>1290</integer>
 		</dict>
 		<key>BACA8597-9FB0-4FD6-892C-B1AC1BB64C79</key>
 		<dict>
+			<key>note</key>
+			<string>Get current environment from file.</string>
 			<key>xpos</key>
 			<integer>500</integer>
 			<key>ypos</key>
-			<integer>670</integer>
+			<integer>570</integer>
 		</dict>
 		<key>BFCDDB89-5EF6-446F-9ABF-474BB006B3FA</key>
 		<dict>
 			<key>xpos</key>
-			<integer>400</integer>
+			<integer>640</integer>
 			<key>ypos</key>
-			<integer>1560</integer>
+			<integer>1620</integer>
 		</dict>
 		<key>CA70BDA3-85EB-42F0-B24E-7D8041669B79</key>
 		<dict>
 			<key>xpos</key>
 			<integer>760</integer>
 			<key>ypos</key>
-			<integer>1060</integer>
+			<integer>1150</integer>
 		</dict>
 		<key>CAF63415-55E7-4641-AAB3-C204184B9C96</key>
 		<dict>
 			<key>xpos</key>
-			<integer>50</integer>
+			<integer>40</integer>
 			<key>ypos</key>
-			<integer>1410</integer>
+			<integer>1420</integer>
 		</dict>
 		<key>CB1C101C-3AE5-4C0F-A19E-8A4BD09BCD79</key>
 		<dict>
 			<key>xpos</key>
 			<integer>760</integer>
 			<key>ypos</key>
-			<integer>800</integer>
+			<integer>780</integer>
 		</dict>
 		<key>D9628590-35BC-4F20-AC9A-BFB6DDAFF2C1</key>
 		<dict>
+			<key>note</key>
+			<string>Get current environment from file.</string>
 			<key>xpos</key>
-			<integer>260</integer>
+			<integer>500</integer>
 			<key>ypos</key>
-			<integer>1790</integer>
-		</dict>
-		<key>DA9AC747-69B1-47F1-B713-B974B5FAE3C9</key>
-		<dict>
-			<key>xpos</key>
-			<integer>440</integer>
-			<key>ypos</key>
-			<integer>340</integer>
+			<integer>1760</integer>
 		</dict>
 		<key>E11FE2EC-A5AF-4C2D-BA3F-314EA299880F</key>
 		<dict>
 			<key>xpos</key>
 			<integer>440</integer>
 			<key>ypos</key>
-			<integer>830</integer>
+			<integer>810</integer>
 		</dict>
 		<key>E19A7932-BFAA-4DCE-AD66-5F063CFCF46B</key>
 		<dict>
 			<key>xpos</key>
 			<integer>40</integer>
 			<key>ypos</key>
-			<integer>670</integer>
-		</dict>
-		<key>E3060037-3080-4697-8E4D-B0475047616B</key>
-		<dict>
-			<key>xpos</key>
-			<integer>260</integer>
-			<key>ypos</key>
-			<integer>1660</integer>
+			<integer>570</integer>
 		</dict>
 		<key>EB6295A9-8BC6-42F2-850B-80B348BD665D</key>
 		<dict>
 			<key>xpos</key>
 			<integer>690</integer>
 			<key>ypos</key>
-			<integer>580</integer>
+			<integer>410</integer>
 		</dict>
 		<key>EC8B845F-48CA-4C70-99EC-79E0BCA6EA7B</key>
 		<dict>
 			<key>xpos</key>
 			<integer>640</integer>
 			<key>ypos</key>
-			<integer>1090</integer>
-		</dict>
-		<key>ECE70E84-F08F-4FD9-9FE1-FF5E0EBFE28D</key>
-		<dict>
-			<key>xpos</key>
-			<integer>390</integer>
-			<key>ypos</key>
-			<integer>460</integer>
-		</dict>
-		<key>F2BDD617-CDB4-41B5-AE26-8A755C25A4BD</key>
-		<dict>
-			<key>xpos</key>
-			<integer>40</integer>
-			<key>ypos</key>
-			<integer>430</integer>
+			<integer>1180</integer>
 		</dict>
 		<key>F4231CDB-914E-431E-B679-9023DF706A4C</key>
 		<dict>
@@ -2986,52 +2156,62 @@ end alfred_script</string>
 		</dict>
 		<key>F4754C20-F180-4D15-B50B-9513728C0606</key>
 		<dict>
+			<key>note</key>
+			<string>Get current environment from file.</string>
 			<key>xpos</key>
-			<integer>260</integer>
+			<integer>500</integer>
 			<key>ypos</key>
-			<integer>1410</integer>
+			<integer>1420</integer>
 		</dict>
 		<key>F585F89F-9711-4936-A5AF-8AB795DF9ED5</key>
 		<dict>
+			<key>note</key>
+			<string>Get current environment from file.</string>
 			<key>xpos</key>
-			<integer>260</integer>
+			<integer>500</integer>
 			<key>ypos</key>
-			<integer>1530</integer>
+			<integer>1590</integer>
 		</dict>
 		<key>F8CC2CB8-C7E2-41C8-9015-420CC7B5A779</key>
 		<dict>
 			<key>xpos</key>
 			<integer>640</integer>
 			<key>ypos</key>
-			<integer>960</integer>
+			<integer>1000</integer>
 		</dict>
 		<key>FB8AAE76-B0C7-409B-8D56-F296EA7BB0E4</key>
 		<dict>
+			<key>note</key>
+			<string>Get current environment from file.</string>
 			<key>xpos</key>
 			<integer>500</integer>
 			<key>ypos</key>
-			<integer>930</integer>
+			<integer>970</integer>
 		</dict>
 		<key>FCB88BBC-80CA-4DAF-81C5-F31950D10806</key>
 		<dict>
+			<key>note</key>
+			<string>If given a while url, cut it up so we just get the subdomain. Ignore it if it's an email address.</string>
 			<key>xpos</key>
 			<integer>250</integer>
 			<key>ypos</key>
-			<integer>670</integer>
+			<integer>570</integer>
 		</dict>
 		<key>FE6F8800-005F-4CC0-B882-C841AB4184E5</key>
 		<dict>
 			<key>xpos</key>
 			<integer>760</integer>
 			<key>ypos</key>
-			<integer>550</integer>
+			<integer>380</integer>
 		</dict>
 		<key>FFD0BE92-9D5B-4EB3-92A5-9D044D9C578A</key>
 		<dict>
+			<key>note</key>
+			<string>Get current environment from file.</string>
 			<key>xpos</key>
 			<integer>500</integer>
 			<key>ypos</key>
-			<integer>800</integer>
+			<integer>780</integer>
 		</dict>
 	</dict>
 	<key>variables</key>
@@ -3042,6 +2222,6 @@ end alfred_script</string>
 	<key>version</key>
 	<string></string>
 	<key>webaddress</key>
-	<string>freeagent.com</string>
+	<string>alfred.freeagent.com</string>
 </dict>
 </plist>
